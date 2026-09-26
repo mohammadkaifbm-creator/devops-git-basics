@@ -1,0 +1,28 @@
+Git Commands Used
+
+1. git init
+   Initializes a new Git repository.
+
+2. git status
+   Shows the current state of the working directory.
+
+3. git add
+   Stages changes for the next commit.
+
+4. git commit -m "message"
+   Saves staged changes as a commit.
+
+5. git remote add origin <GitHub-URL>
+   Connects the local repository to the GitHub repository.
+
+6. git remote -v
+   Shows the connected remote repository URL.
+
+7. git push -u origin main
+   Pushes the local main branch to GitHub and sets the upstream branch.
+
+8. git push
+   Pushes new commits to GitHub.
+
+9. git log --oneline -2
+   Shows the latest two commits.
